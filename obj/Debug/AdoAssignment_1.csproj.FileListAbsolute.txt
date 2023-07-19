@@ -1,0 +1,7 @@
+A:\DotNet\AdoAssignment_1\bin\Debug\AdoAssignment_1.exe.config
+A:\DotNet\AdoAssignment_1\bin\Debug\AdoAssignment_1.exe
+A:\DotNet\AdoAssignment_1\bin\Debug\AdoAssignment_1.pdb
+A:\DotNet\AdoAssignment_1\obj\Debug\AdoAssignment_1.csproj.AssemblyReference.cache
+A:\DotNet\AdoAssignment_1\obj\Debug\AdoAssignment_1.csproj.CoreCompileInputs.cache
+A:\DotNet\AdoAssignment_1\obj\Debug\AdoAssignment_1.exe
+A:\DotNet\AdoAssignment_1\obj\Debug\AdoAssignment_1.pdb
